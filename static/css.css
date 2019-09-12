@@ -1,0 +1,112 @@
+body {
+    background-color: white;
+    font-family: Bahnschrift;
+    background-image: url("background.png");
+
+
+}
+
+#loginform{
+    width: 300px;
+    margin: 180px auto ;
+}
+
+#loginform input{
+    width: 100%;
+    height: 25px;
+}
+
+#loginbtn{
+    background-color: crimson;
+    color: white;
+    height: 30px;
+    width: 100% !important;
+    border: none;
+    border-radius: 10px;
+
+}
+
+.score{
+    float: left;
+    width: 33%;
+    text-align: center;
+}
+
+#score1{
+}
+
+#output {
+    text-align: center;
+    font-size: 26px;
+    font-size: 26px;
+}
+#beurt {
+    text-align: center;
+    font-size: 16px;
+}
+
+
+
+#header {
+
+    text-transform: uppercase;
+    color: black;
+    text-align: center;
+}
+
+#gamebord{
+width: 300px;
+    margin: 80px auto;
+}
+
+#spelbord {
+
+}
+
+#spelbord,.vakjes {
+    border: 1px solid black;
+    text-align: center;
+    border-radius: 50%;
+    font-weight: bold;
+    font-size: 40px;
+}
+td{
+    width: 85px;
+    height: 85px;
+}
+
+
+#button {
+    margin-top: 50px;
+    text-align: center;
+}
+
+#btn {
+    background-color: crimson;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    width: 150px;
+    height: 30px;
+    font-size: 14px;
+}
+
+#btn:hover{
+    background-color: tomato;
+
+}
+
+#logo{
+    width: 100%;
+}
+
+#winnaar{
+    text-align: center;
+    font-weight: lighter;
+}
+
+#scorebox{
+    float: right;
+    width: 300px;
+    margin: 0 50px 0 0;
+}
